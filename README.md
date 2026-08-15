@@ -1,54 +1,10 @@
-<p align="center">
-  <img src="pontificia_universidad_javeriana_logo.jpg" alt="Pontificia Universidad Javeriana" width="260"/>
-</p>
+# Procesamiento de Datos a Gran Escala
 
-<h1 align="center">Procesamiento de Datos a Gran Escala</h1>
-<h3 align="center">Fundamentos de Python — Cuadernos de Clase y Práctica Bono</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.x"/>
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-  <img src="https://img.shields.io/badge/Cuadernos-10-blue?style=flat-square" alt="10 cuadernos"/>
-  <img src="https://img.shields.io/badge/Estado-En%20curso-yellow?style=flat-square" alt="Estado: en curso"/>
-  <img src="https://img.shields.io/badge/Licencia-Uso%20académico-lightgrey?style=flat-square" alt="Licencia: uso académico"/>
-</p>
-
-<table align="center">
-  <tr>
-    <td><b>Universidad</b></td>
-    <td>Pontificia Universidad Javeriana</td>
-  </tr>
-  <tr>
-    <td><b>Facultad</b></td>
-    <td>Facultad de Ingeniería</td>
-  </tr>
-  <tr>
-    <td><b>Materia</b></td>
-    <td>Procesamiento de Datos a Gran Escala</td>
-  </tr>
-  <tr>
-    <td><b>Número de clase</b></td>
-    <td>1055</td>
-  </tr>
-  <tr>
-    <td><b>Profesor</b></td>
-    <td>John Jairo Corredor Franco</td>
-  </tr>
-  <tr>
-    <td><b>Autora</b></td>
-    <td>Monica Maria Castro Benitez</td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="#-descripción">Descripción</a> •
-  <a href="#-qué-encontrarás-aquí">Contenido</a> •
-  <a href="#-estructura-del-repositorio">Estructura</a> •
-  <a href="#-cómo-usar-este-repositorio">Cómo usarlo</a> •
-  <a href="#-requisitos">Requisitos</a> •
-  <a href="#-metodología-de-los-cuadernos">Metodología</a> •
-  <a href="#-licencia">Licencia</a>
-</p>
+**Universidad:** Pontificia Universidad Javeriana
+**Facultad:** Facultad de Ingeniería
+**Materia:** Procesamiento de Datos a Gran Escala (Número de clase 1055)
+**Profesor:** John Jairo Corredor Franco
+**Autora:** Monica Maria Castro Benitez
 
 ---
 
