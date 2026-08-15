@@ -1,9 +1,13 @@
 # Procesamiento de Datos a Gran Escala
 
 **Universidad:** Pontificia Universidad Javeriana
+
 **Facultad:** Facultad de Ingeniería
+
 **Materia:** Procesamiento de Datos a Gran Escala (Número de clase 1055)
+
 **Profesor:** John Jairo Corredor Franco
+
 **Autora:** Monica Maria Castro Benitez
 
 ---
